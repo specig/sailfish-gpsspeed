@@ -7,7 +7,11 @@ Forked and modified from https://github.com/balta3/sailfish-gpsinfo in spirit of
 
 This is an initial commit and for now shows on in numbers. 
 Upcoming features:
+
 -- Graphics
+
 -- History
+
 -- Average speed
+
 -- ....
